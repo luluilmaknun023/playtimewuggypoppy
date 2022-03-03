@@ -56,26 +56,26 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "name_category": "",
+      "title": "Gameplay and Summary",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_RmRVAf8bizvo8w7j3MEg_sdon3RxddH6Q&usqp=CAU",
+      "description": "Poppy play huggy game summary, game play, and game plot.",
       "link": "https://luluilmaknun023.github.io/playtimewuggypoppy/1-Newest_Game_Summary-Game_Play.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "name_category": "",
+      "title": "Guide for Chapter 1 - A Tight Squeeze",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkdUIxrcT52nA3j0Fukcl0EdUZuDB0IzFGyg&usqp=CAU",
+      "description": "Help you to complete this first chapter named - A Tight Squeeze.",
       "link": "https://luluilmaknun023.github.io/playtimewuggypoppy/2-Chapter_One_A_Tight_Squeeze.html"
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "name_category": "",
+      "title": "Playtime Wuggy Poppy : Make A Friend Puzzle Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJdII39bRbIl7Ei8BaY83kgD7DA5i4LAdZg&usqp=CAU",
+      "description": "It is a horror puzzle adventure that tasks you with surviving the vengeful toys waiting for you in the abandoned toy factory.",
       "link": "https://luluilmaknun023.github.io/playtimewuggypoppy/3-Make-A-Friend_Puzzle_Guide.html"
     }
   ]
