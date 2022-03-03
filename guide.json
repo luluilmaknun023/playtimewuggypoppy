@@ -23,70 +23,36 @@
    "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "title": "Winter Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/BGZY4R_g8NkI6zIg0laf41ckrW1Ym8XX0hfGH7PExhsTLDXXLfpgctjzfPlB00JkEA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.winterwallpaper.winteraestheticwallpaper"
     },
     {
       "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      "title": "Fall Wallpapers Aesthetic",
+      "image": "https://play-lh.googleusercontent.com/pI1jUnwDL86w5RDYF13uOvr8l8ml9dcGX3Xw_PNXZ6tenHRiMAYo-oDiTKmYzTJb=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.cutefallwallpaper.fallwallpapersaesthetic"
     },
     {
       "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      "title": "Cute Fall Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/WbRGbmJuNRRaUPebEw0wgr0p0_Rhb32h3W1cGCjqMPsY6Q50vlvx3JOf1AnFs1X3-g=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.fallwallpaper.cutefallwallpaper"
     },
     {
       "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+      "title": "BT21 wallpaper lock screen",
+      "image": "https://play-lh.googleusercontent.com/D72Heq6Nh7kCpk2IunydZiCyCv4YarbfjNUXJP0Ge3nUcKMfHXsQRhNNY4KIRt3vVSc=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.bt21characters.bt21wallpaper"
     },
     {
       "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
-    },
-    {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-    },
-    {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-    },
-    {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+      "title": "Nature Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/CQZgMU5Z3iWeaHNEn403rn0DrgG3x2EnkqPMOiAyUGG2gLyV_cvuMR6NZG9VIpBqaxQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.naturebackground.wallpaperhdnature"
     }
   ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
-    },
-    {
-      "id": 2,
-      "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
-    },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
-    }
-  ],
+  
   "Data": [
     {
       "id": 1,
